@@ -2,7 +2,7 @@
 
 
 /*
-this Trait was written by Nazar Ivankiv (https://prosite5.com)
+this Trait was written by Nazar Ivankiv
 it helps to perform sorting by column in CRUD tables and any other cases
 */
 
